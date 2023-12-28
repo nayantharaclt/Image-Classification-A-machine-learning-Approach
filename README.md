@@ -1,4 +1,4 @@
-# Image-Classification-Non-Neural-Network-Approach
+# Binary classification of Images using SVM
 
 Although neural networks are used extensively for image classification, this is an approach for binary classification of Images using Support Vector Machine.
 The dataset used is 'horses or humans' - comprising color images of humans and horses.
